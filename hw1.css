@@ -1,0 +1,35 @@
+header {
+  background-color: rgb(180, 180, 180);
+  color: #ffffff;
+}
+header h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+header a  {
+  color:rgb(0, 0, 0);
+  display: inline-block;
+  background-color: rgba(120, 120, 120, 0.2);
+  font-weight: bold;
+
+}
+aside{
+  display: none;
+}
+
+section {
+  background-color: rgb(120, 120, 120);
+  /*font-weight:bold;*/
+}
+section h2 {
+  text-transform: uppercase;
+  color: rgb(0, 0, 120);
+}
+section a {
+  color: #000000;
+  background-color: rgb(180, 180, 180);
+  font-weight: bold;
+}
+th {
+  font-weight: bold;
+}
